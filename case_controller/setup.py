@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='case_controller',
-    version='0.0.1',
+    version='0.0.2',
     author='test',
     author_email='test@test.com',
     description='Testing installation of Package',
